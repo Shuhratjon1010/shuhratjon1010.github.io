@@ -7,3 +7,4 @@
 - [HandCut llms.txt](https://shuhratjon1010.github.io/handcut/llms.txt)
 - [HandCut full text](https://shuhratjon1010.github.io/handcut/llms-full.txt)
 - [Sitemap](https://shuhratjon1010.github.io/handcut/sitemap.xml)
+- [Guides sitemap](https://shuhratjon1010.github.io/handcut/sitemap-guides.xml)
