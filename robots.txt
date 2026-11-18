@@ -1,0 +1,5 @@
+# shuhratjon1010.github.io — all crawlers welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://shuhratjon1010.github.io/handcut/sitemap.xml
