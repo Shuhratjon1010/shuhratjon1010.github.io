@@ -1,0 +1,9 @@
+# shuhratjon1010.github.io
+
+> Home of HandCut, a captions-first iPhone video editor: word-by-word captions transcribed on the device, a real timeline, 4K export and never a watermark. Edit free; exporting needs HandCut Pro, a monthly subscription priced in the app. App Store: https://apps.apple.com/app/id6762062166
+
+## HandCut
+- [HandCut site](https://shuhratjon1010.github.io/handcut/)
+- [HandCut llms.txt](https://shuhratjon1010.github.io/handcut/llms.txt)
+- [HandCut full text](https://shuhratjon1010.github.io/handcut/llms-full.txt)
+- [Sitemap](https://shuhratjon1010.github.io/handcut/sitemap.xml)
